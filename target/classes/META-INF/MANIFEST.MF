@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ico-test-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: doublechain
+Implementation-Vendor-Id: kr.co.doublechain.ico
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/ico-test-ser
+ ver/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
